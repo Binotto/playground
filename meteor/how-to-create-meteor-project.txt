@@ -1,0 +1,2 @@
+#How to create meteor project
+//meteor create <name>

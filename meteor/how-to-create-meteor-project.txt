@@ -1,2 +1,4 @@
-#How to create meteor project
-//meteor create <name>
+#How to create meteor project - 1.8.1
+//meteor create <name> --release 1.8.1
+//cd app-name
+//meteor

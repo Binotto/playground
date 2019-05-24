@@ -1,0 +1,6 @@
+
+#Global
+//yarn global add babel-cli
+#Dependency
+//yarn add babel-cli
+
